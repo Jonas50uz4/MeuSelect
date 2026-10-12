@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="640" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#cdd8c8"/><stop offset="1" stop-color="#78937a"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h640v420H0z"/>
+  <circle cx="495" cy="87" r="36" fill="#eef1e5" opacity=".6"/>
+  <path d="M0 346 159 230l115 83L422 197l218 149v74H0V346Z" fill="#355c42" opacity=".15"/>
+  <g stroke="#244837" stroke-width="3" stroke-linejoin="round" opacity=".65"><path d="m211 227 109-86 109 86M228 214v104h184V214M293 318v-76h54v76"/><path d="M254 241h23v29h-23zM366 241h23v29h-23z"/></g>
+  <text x="320" y="377" fill="#244837" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" text-anchor="middle">SUA IMAGEM AQUI</text>
+</svg>

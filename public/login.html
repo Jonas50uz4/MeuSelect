@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Entrar | Meu Lar</title><link rel="stylesheet" href="/css/style.css">
+  <script src="/js/common.js" defer></script><script src="/js/login.js" defer></script>
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="/">Meu Lar<span>Imobiliária</span></a><a href="/">Ver imóveis</a></header>
+  <main class="login-layout"><section class="panel">
+    <p class="eyebrow">ÁREA DO CORRETOR</p><h1>Bem-vindo de volta.</h1><p>Acesse para gerenciar os imóveis da imobiliária.</p>
+    <form id="login-form">
+      <label for="email">E-mail</label><input id="email" name="email" type="email" autocomplete="username" required>
+      <label for="password">Senha</label><input id="password" name="password" type="password" autocomplete="current-password" maxlength="256" required>
+      <button type="submit">Entrar no painel</button>
+    </form><p id="message" role="status" aria-live="polite"></p>
+  </section></main>
+</body>
+</html>
